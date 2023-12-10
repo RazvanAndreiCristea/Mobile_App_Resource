@@ -1,0 +1,142 @@
+[
+  {
+    "country_name": "Romania",
+    "capital": "Bucharest",
+    "details": {
+      "language": "Romanian",
+      "currency": "RON",
+      "additional_info": {
+        "population": "19.41 million",
+        "continent": "Europe",
+        "president": "Klaus Iohannis",
+        "description": "Romania, a country located in Southeastern Europe, is known for its rich history, diverse culture, and beautiful landscapes."
+      }
+    }
+  },
+  {
+    "country_name": "United States of America",
+    "capital": "Washington D.C.",
+    "details": {
+      "language": "English",
+      "currency": "Dollar",
+      "additional_info": {
+        "population": "331.42 million",
+        "continent": "North America",
+        "president": "Joe Biden",
+        "description": "The United States of America, commonly known as the USA, is a diverse country in North America, known for its technological advancements, cultural diversity, and vast landscapes."
+      }
+    }
+  },
+  {
+    "country_name": "Japan",
+    "capital": "Tokyo",
+    "details": {
+      "language": "Japanese",
+      "currency": "Yen",
+      "additional_info": {
+        "population": "126.26 million",
+        "continent": "Asia",
+        "president": "Fumio Kishida",
+        "description": "Japan, an island country in East Asia, is renowned for its unique culture, technological innovations, and beautiful cherry blossoms."
+      }
+    }
+  },
+  {
+    "country_name": "Germany",
+    "capital": "Berlin",
+    "details": {
+      "language": "German",
+      "currency": "Euro",
+      "additional_info": {
+        "population": "83.02 million",
+        "continent": "Europe",
+        "president": "Olaf Scholz",
+        "description": "Germany, located in Central Europe, is known for its rich history, technological advancements, and picturesque landscapes."
+      }
+    }
+  },
+  {
+    "country_name": "Brazil",
+    "capital": "Brasília",
+    "details": {
+      "language": "Portuguese",
+      "currency": "Real",
+      "additional_info": {
+        "population": "213.99 million",
+        "continent": "South America",
+        "president": "Jair Bolsonaro",
+        "description": "Brazil, the largest country in South America, is famous for its Amazon rainforest, vibrant culture, and love for football."
+      }
+    }
+  },
+  {
+    "country_name": "China",
+    "capital": "Beijing",
+    "details": {
+      "language": "Chinese",
+      "currency": "Yuan",
+      "additional_info": {
+        "population": "1.41 billion",
+        "continent": "Asia",
+        "president": "Xi Jinping",
+        "description": "China, the most populous country in the world, boasts a rich history, diverse culture, and significant technological advancements."
+      }
+    }
+  },
+  {
+    "country_name": "India",
+    "capital": "New Delhi",
+    "details": {
+      "language": "Hindi",
+      "currency": "Rupee",
+      "additional_info": {
+        "population": "1.39 billion",
+        "continent": "Asia",
+        "president": "Ram Nath Kovind",
+        "description": "India, known for its diverse culture, historical landmarks, and spiritual heritage, is the seventh-largest country by land area."
+      }
+    }
+  },
+  {
+    "country_name": "Australia",
+    "capital": "Canberra",
+    "details": {
+      "language": "English",
+      "currency": "Australian Dollar",
+      "additional_info": {
+        "population": "25.85 million",
+        "continent": "Oceania",
+        "president": "Anthony Albanese",
+        "description": "Australia, a country and continent surrounded by the Indian and Pacific oceans, is famous for its unique wildlife, stunning landscapes, and vibrant cities."
+      }
+    }
+  },
+  {
+    "country_name": "Russia",
+    "capital": "Moscow",
+    "details": {
+      "language": "Russian",
+      "currency": "Russian Ruble",
+      "additional_info": {
+        "population": "145.93 million",
+        "continent": "Europe/Asia",
+        "president": "Vladimir Putin",
+        "description": "Russia, the largest country in the world, spans Eastern Europe and Northern Asia, renowned for its diverse culture, rich history, and vast landscapes."
+      }
+    }
+  },
+  {
+    "country_name": "Canada",
+    "capital": "Ottawa",
+    "details": {
+      "language": "English/French",
+      "currency": "Canadian Dollar",
+      "additional_info": {
+        "population": "38.01 million",
+        "continent": "North America",
+        "president": "Justin Trudeau",
+        "description": "Canada, known for its stunning natural scenery, multicultural cities, and friendly citizens, is the second-largest country in the world by land area."
+      }
+    }
+  }
+]
